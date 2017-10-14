@@ -1,0 +1,5 @@
+C:\Users\utilizador\Documents\SharpDevelop Projects\Veiculo\obj\Debug\Veiculo.csprojResolveAssemblyReference.cache
+C:\Users\utilizador\Documents\SharpDevelop Projects\Veiculo\bin\Debug\Veiculo.exe
+C:\Users\utilizador\Documents\SharpDevelop Projects\Veiculo\bin\Debug\Veiculo.pdb
+C:\Users\utilizador\Documents\SharpDevelop Projects\Veiculo\obj\Debug\Veiculo.exe
+C:\Users\utilizador\Documents\SharpDevelop Projects\Veiculo\obj\Debug\Veiculo.pdb
